@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Profile Views](https://komarev.com/ghpvc/?username=AresIntrepid&style=flat-square&color=green)
 [![GitHub followers](https://img.shields.io/github/followers/AresIntrepid?label=Follow&style=social)](https://github.com/AresIntrepid/?tab=follow)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/arnav-kumar-1b63382b3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/arnav-kumar-1b63382b3/)
 
 ## :izakaya_lantern: About Me 
 - I code
