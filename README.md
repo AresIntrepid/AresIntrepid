@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Profile Views](https://profileviewscounter.com/api/viewcount?username=AresIntrepid)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![React](https://img.shields.io/badge/React-v17-blue)
 
