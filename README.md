@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![image title](https://rushter.com/counter.svg)
-Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![React](https://img.shields.io/badge/React-v17-blue)
