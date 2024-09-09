@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 - ![Wireshark](https://img.shields.io/badge/-Wireshark-000?style=flat&logo=wireshark)
 - ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AresIntrepid&show_icons=true&theme=radical)
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AresIntrepid&theme=dracula)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AresIntrepid&show_icons=true&theme=radical)
+
