@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![React](https://img.shields.io/badge/React-v17-blue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AresIntrepide&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AresIntrepid&layout=compact&theme=radical)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AresIntrepide&theme=dracula)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AresIntrepid&theme=dracula)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AresIntrepid&show_icons=true&theme=radical)
