@@ -21,6 +21,32 @@ Here are some ideas to get you started:
 
 ## About Me
 - I code
+## 🛠️ Technical Skills
+
+### Languages
+- Python
+- Java
+- JavaScript
+- SQL
+- HTML5
+- CSS3
+
+### Cybersecurity
+- Web Security
+- Network Security
+- VAPT
+- Encryption
+
+### Tools/Frameworks
+- React.js
+- Next.js
+- Splunk
+- MetaSploit
+- Burp Suite
+- Nmap
+- Wireshark
+- Git
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![React](https://img.shields.io/badge/React-v17-blue)
