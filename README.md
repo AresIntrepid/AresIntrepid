@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![React](https://img.shields.io/badge/React-v17-blue)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AresIntrepid&show_icons=true&theme=radical)
