@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there ![Animated Emoji](https://tenor.com/view/anime-computer-pc-playing-gaming-gif-8674130)
+
 
 <!--
 **AresIntrepid/AresIntrepid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
 [![GitHub followers](https://img.shields.io/github/followers/AresIntrepid?label=Follow&style=social)](https://github.com/AresIntrepid/?tab=follow)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/arnav-kumar-1b63382b3/)
 
-## About Me
+## About Me 
 - I code
 
 ## 🛠️ Technical Skills
