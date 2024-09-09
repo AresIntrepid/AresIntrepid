@@ -21,31 +21,32 @@ Here are some ideas to get you started:
 
 ## About Me
 - I code
+
 ## 🛠️ Technical Skills
 
-### Languages
-- Python
-- Java
-- JavaScript
-- SQL
-- HTML5
-- CSS3
+**Languages**
+- ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+- - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+- ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)
+- ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
+- ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
 
-### Cybersecurity
-- Web Security
-- Network Security
-- VAPT
-- Encryption
+**Cybersecurity**
+- ![Web Security](https://img.shields.io/badge/-Web%20Security-000?style=flat&logo=security)
+- ![Network Security](https://img.shields.io/badge/-Network%20Security-000?style=flat&logo=cisco)
+- ![VAPT](https://img.shields.io/badge/-VAPT-000?style=flat&logo=hack-the-box)
+- ![Encryption](https://img.shields.io/badge/-Encryption-000?style=flat&logo=lock)
 
-### Tools/Frameworks
-- React.js
-- Next.js
-- Splunk
-- MetaSploit
-- Burp Suite
-- Nmap
-- Wireshark
-- Git
+**Tools/Frameworks**
+- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+- ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+- ![MetaSploit](https://img.shields.io/badge/-MetaSploit-000?style=flat&logo=metasploit)
+- ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000?style=flat&logo=burp-suite)
+- ![Nmap](https://img.shields.io/badge/-Nmap-000?style=flat&logo=nmap)
+- ![Wireshark](https://img.shields.io/badge/-Wireshark-000?style=flat&logo=wireshark)
+- ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
