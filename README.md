@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AresIntrepid&layout=compact&theme=radical)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AresIntrepid&theme=dracula)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AresIntrepid&theme=dracula)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AresIntrepid&show_icons=true&theme=radical)
