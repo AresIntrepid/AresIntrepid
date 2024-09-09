@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image title](https://rushter.com/counter.svg)
+# Hello, I'm [Your Name]!
 
+![Profile Views](https://img.shields.io/badge/Profile_Views-1234-blue)
+![GitHub Followers](https://img.shields.io/github/followers/AresIntrepid?style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/arnav-kumar-1b63382b3/)
+
+## About Me
+- I code
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![React](https://img.shields.io/badge/React-v17-blue)
