@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm [Your Name]!
-
 ![Profile Views](https://img.shields.io/badge/Profile_Views-1234-blue)
 ![GitHub Followers](https://img.shields.io/github/followers/AresIntrepid?style=social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/arnav-kumar-1b63382b3/)
