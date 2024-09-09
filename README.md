@@ -1,4 +1,4 @@
-## ⚡Hi there ⚡
+## Hi there ⚡
 ![Anime Computer](https://tenor.com/KyHu.gif)
 
 <!--
