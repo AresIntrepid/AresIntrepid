@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ## :izakaya_lantern: About Me 
 - I code
+- :bridge_at_night:
 
 ## 🛠️ Technical Skills
 
