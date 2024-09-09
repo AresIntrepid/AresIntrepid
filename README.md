@@ -48,12 +48,6 @@ Here are some ideas to get you started:
 - ![Wireshark](https://img.shields.io/badge/-Wireshark-000?style=flat&logo=wireshark)
 - ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![React](https://img.shields.io/badge/React-v17-blue)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AresIntrepid&layout=compact&theme=radical)
-
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AresIntrepid&theme=dracula)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AresIntrepid&show_icons=true&theme=radical)
