@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 
 **Languages**
 - ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-- - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 - ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)
 - ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
