@@ -33,24 +33,24 @@ Here are some ideas to get you started:
 - ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
 - ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
 
-**Cybersecurity**
+**Tools/Frameworks**
+- ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+- ![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=express&logoColor=white)  
+- ![Handlebars](https://img.shields.io/badge/-Handlebars-F0772B?style=flat-square&logo=handlebarsdotjs&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+- ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000?style=flat&logo=burp-suite)
+- ![Nmap](https://img.shields.io/badge/-Nmap-000?style=flat&logo=nmap)
+- ![Wireshark](https://img.shields.io/badge/-Wireshark-000?style=flat&logo=wireshark)
+
+  **Cybersecurity**
 - ![Web Security](https://img.shields.io/badge/-Web%20Security-000?style=flat&logo=security)
 - ![Network Security](https://img.shields.io/badge/-Network%20Security-000?style=flat&logo=cisco)
 - ![VAPT](https://img.shields.io/badge/-VAPT-000?style=flat&logo=hack-the-box)
 - ![Encryption](https://img.shields.io/badge/-Encryption-000?style=flat&logo=lock)
-
-**Tools/Frameworks**
-- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-- ![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=express&logoColor=white)  
-- ![Handlebars](https://img.shields.io/badge/-Handlebars-F0772B?style=flat-square&logo=handlebarsdotjs&logoColor=white)  
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-- ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-- ![MetaSploit](https://img.shields.io/badge/-MetaSploit-000?style=flat&logo=metasploit)
-- ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000?style=flat&logo=burp-suite)
-- ![Nmap](https://img.shields.io/badge/-Nmap-000?style=flat&logo=nmap)
-- ![Wireshark](https://img.shields.io/badge/-Wireshark-000?style=flat&logo=wireshark)
-- ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AresIntrepid&show_icons=true&theme=radical)
 
