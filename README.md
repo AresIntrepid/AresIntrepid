@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - ![Nmap](https://img.shields.io/badge/-Nmap-000?style=flat&logo=nmap)
 - ![Wireshark](https://img.shields.io/badge/-Wireshark-000?style=flat&logo=wireshark)
 
-  **Cybersecurity**
+**Cybersecurity**
 - ![Web Security](https://img.shields.io/badge/-Web%20Security-000?style=flat&logo=security)
 - ![Network Security](https://img.shields.io/badge/-Network%20Security-000?style=flat&logo=cisco)
 - ![VAPT](https://img.shields.io/badge/-VAPT-000?style=flat&logo=hack-the-box)
