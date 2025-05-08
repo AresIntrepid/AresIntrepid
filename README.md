@@ -23,33 +23,46 @@ Here are some ideas to get you started:
 
 ## 🛠️ Technical Skills
 
-**Languages**
-- ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-- ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)
-- ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
-- ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
-
-**Tools/Frameworks**
-- ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
-- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-- ![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=express&logoColor=white)  
-- ![Handlebars](https://img.shields.io/badge/-Handlebars-F0772B?style=flat-square&logo=handlebarsdotjs&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-- ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000?style=flat&logo=burp-suite)
-- ![Nmap](https://img.shields.io/badge/-Nmap-000?style=flat&logo=nmap)
-- ![Wireshark](https://img.shields.io/badge/-Wireshark-000?style=flat&logo=wireshark)
-
-**Cybersecurity**
-- ![Web Security](https://img.shields.io/badge/-Web%20Security-000?style=flat&logo=security)
-- ![Network Security](https://img.shields.io/badge/-Network%20Security-000?style=flat&logo=cisco)
-- ![VAPT](https://img.shields.io/badge/-VAPT-000?style=flat&logo=hack-the-box)
-- ![Encryption](https://img.shields.io/badge/-Encryption-000?style=flat&logo=lock)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Languages</h3>
+      <ul>
+        <li><img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python" alt="Python" /></li>
+        <li><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" /></li>
+        <li><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" /></li>
+        <li><img src="https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript" alt="JavaScript" /></li>
+        <li><img src="https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql" alt="SQL" /></li>
+        <li><img src="https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5" alt="HTML5" /></li>
+        <li><img src="https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3" alt="CSS3" /></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Tools/Frameworks</h3>
+      <ul>
+        <li><img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git" alt="Git" /></li>
+        <li><img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js" /></li>
+        <li><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /></li>
+        <li><img src="https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" /></li>
+        <li><img src="https://img.shields.io/badge/-Handlebars-F0772B?style=flat-square&logo=handlebarsdotjs&logoColor=white" alt="Handlebars" /></li>
+        <li><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /></li>
+        <li><img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /></li>
+        <li><img src="https://img.shields.io/badge/-Burp%20Suite-000?style=flat&logo=burp-suite" alt="Burp Suite" /></li>
+        <li><img src="https://img.shields.io/badge/-Nmap-000?style=flat&logo=nmap" alt="Nmap" /></li>
+        <li><img src="https://img.shields.io/badge/-Wireshark-000?style=flat&logo=wireshark" alt="Wireshark" /></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Cybersecurity</h3>
+      <ul>
+        <li><img src="https://img.shields.io/badge/-Web%20Security-000?style=flat&logo=security" alt="Web Security" /></li>
+        <li><img src="https://img.shields.io/badge/-Network%20Security-000?style=flat&logo=cisco" alt="Network Security" /></li>
+        <li><img src="https://img.shields.io/badge/-VAPT-000?style=flat&logo=hack-the-box" alt="VAPT" /></li>
+        <li><img src="https://img.shields.io/badge/-Encryption-000?style=flat&logo=lock" alt="Encryption" /></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AresIntrepid&show_icons=true&theme=radical)
 
