@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/arnav-kumar-1b63382b3/)
 
 ## :izakaya_lantern: About Me 
-- I code
 - :bridge_at_night:
 
 ## 🛠️ Technical Skills
