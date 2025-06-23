@@ -40,13 +40,15 @@ Here are some ideas to get you started:
     <td width="33%" valign="top">
       <h3>Tools/Frameworks</h3>
       <ul>
+        <li><img src="https://img.shields.io/badge/-Django-000?style=flat&logo=django" alt="Django" /></li>
         <li><img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git" alt="Git" /></li>
         <li><img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js" /></li>
         <li><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /></li>
+        <li><img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /></li>
         <li><img src="https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" /></li>
         <li><img src="https://img.shields.io/badge/-Handlebars-F0772B?style=flat-square&logo=handlebarsdotjs&logoColor=white" alt="Handlebars" /></li>
         <li><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /></li>
-        <li><img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /></li>
+        <li><img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql" alt="PostgreSQL" /></li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -54,14 +56,10 @@ Here are some ideas to get you started:
       <ul>
         <li><img src="https://img.shields.io/badge/-Nginx-000?style=flat&logo=nginx" alt="Nginx" /></li>
         <li><img src="https://img.shields.io/badge/-Let's%20Encrypt-000?style=flat&logo=letsencrypt" alt="Let's Encrypt" /></li>
-        <li><img src="https://img.shields.io/badge/-Django-000?style=flat&logo=django" alt="Django" /></li>
         <li><img src="https://img.shields.io/badge/-Celery-000?style=flat&logo=celery" alt="Celery Workers/Beat" /></li>
         <li><img src="https://img.shields.io/badge/-Redis-000?style=flat&logo=redis" alt="Redis" /></li>
         <li><img src="https://img.shields.io/badge/-RabbitMQ-000?style=flat&logo=rabbitmq" alt="RabbitMQ" /></li>
-        <li><img src="https://img.shields.io/badge/-Prometheus-000?style=flat&logo=prometheus" alt="Prometheus" /></li>
-        <li><img src="https://img.shields.io/badge/-Grafana-000?style=flat&logo=grafana" alt="Grafana" /></li>
         <li><img src="https://img.shields.io/badge/-Docker-000?style=flat&logo=docker" alt="Docker" /></li>
-        <li><img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql" alt="PostgreSQL" /></li>
         <li><img src="https://img.shields.io/badge/-GitHub%20Actions-000?style=flat&logo=githubactions" alt="GitHub Actions CI/CD" /></li>
         <li><img src="https://img.shields.io/badge/-Linode-000?style=flat&logo=linode" alt="Linode" /></li>
         <li><img src="https://img.shields.io/badge/-Web%20Security-000?style=flat&logo=security" alt="Web Security" /></li>
