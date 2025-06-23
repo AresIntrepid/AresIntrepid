@@ -47,7 +47,6 @@ Here are some ideas to get you started:
         <li><img src="https://img.shields.io/badge/-Handlebars-F0772B?style=flat-square&logo=handlebarsdotjs&logoColor=white" alt="Handlebars" /></li>
         <li><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /></li>
         <li><img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /></li>
-
       </ul>
     </td>
     <td width="33%" valign="top">
