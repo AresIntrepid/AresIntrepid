@@ -53,8 +53,6 @@ Here are some ideas to get you started:
       <h3>Cybersecurity</h3>
       <ul>
         <li><img src="https://img.shields.io/badge/-Web%20Security-000?style=flat&logo=security" alt="Web Security" /></li>
-        <li><img src="https://img.shields.io/badge/-Network%20Security-000?style=flat&logo=cisco" alt="Network Security" /></li>
-        <li><img src="https://img.shields.io/badge/-VAPT-000?style=flat&logo=hack-the-box" alt="VAPT" /></li>
         <li><img src="https://img.shields.io/badge/-Encryption-000?style=flat&logo=lock" alt="Encryption" /></li>
       </ul>
     </td>
