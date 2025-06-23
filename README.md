@@ -50,7 +50,7 @@ Here are some ideas to get you started:
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>Cybersecurity</h3>
+      <h3>Networking</h3>
       <ul>
         <li><img src="https://img.shields.io/badge/-Web%20Security-000?style=flat&logo=security" alt="Web Security" /></li>
         <li><img src="https://img.shields.io/badge/-Encryption-000?style=flat&logo=lock" alt="Encryption" /></li>
