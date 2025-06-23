@@ -50,8 +50,20 @@ Here are some ideas to get you started:
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>Networking</h3>
+      <h3>DevOps</h3>
       <ul>
+        <li><img src="https://img.shields.io/badge/-Nginx-000?style=flat&logo=nginx" alt="Nginx" /></li>
+        <li><img src="https://img.shields.io/badge/-Let's%20Encrypt-000?style=flat&logo=letsencrypt" alt="Let's Encrypt" /></li>
+        <li><img src="https://img.shields.io/badge/-Django-000?style=flat&logo=django" alt="Django" /></li>
+        <li><img src="https://img.shields.io/badge/-Celery-000?style=flat&logo=celery" alt="Celery Workers/Beat" /></li>
+        <li><img src="https://img.shields.io/badge/-Redis-000?style=flat&logo=redis" alt="Redis" /></li>
+        <li><img src="https://img.shields.io/badge/-RabbitMQ-000?style=flat&logo=rabbitmq" alt="RabbitMQ" /></li>
+        <li><img src="https://img.shields.io/badge/-Prometheus-000?style=flat&logo=prometheus" alt="Prometheus" /></li>
+        <li><img src="https://img.shields.io/badge/-Grafana-000?style=flat&logo=grafana" alt="Grafana" /></li>
+        <li><img src="https://img.shields.io/badge/-Docker-000?style=flat&logo=docker" alt="Docker" /></li>
+        <li><img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql" alt="PostgreSQL" /></li>
+        <li><img src="https://img.shields.io/badge/-GitHub%20Actions-000?style=flat&logo=githubactions" alt="GitHub Actions CI/CD" /></li>
+        <li><img src="https://img.shields.io/badge/-Linode-000?style=flat&logo=linode" alt="Linode" /></li>
         <li><img src="https://img.shields.io/badge/-Web%20Security-000?style=flat&logo=security" alt="Web Security" /></li>
         <li><img src="https://img.shields.io/badge/-Encryption-000?style=flat&logo=lock" alt="Encryption" /></li>
       </ul>
