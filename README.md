@@ -47,9 +47,7 @@ Here are some ideas to get you started:
         <li><img src="https://img.shields.io/badge/-Handlebars-F0772B?style=flat-square&logo=handlebarsdotjs&logoColor=white" alt="Handlebars" /></li>
         <li><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /></li>
         <li><img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /></li>
-        <li><img src="https://img.shields.io/badge/-Burp%20Suite-000?style=flat&logo=burp-suite" alt="Burp Suite" /></li>
-        <li><img src="https://img.shields.io/badge/-Nmap-000?style=flat&logo=nmap" alt="Nmap" /></li>
-        <li><img src="https://img.shields.io/badge/-Wireshark-000?style=flat&logo=wireshark" alt="Wireshark" /></li>
+
       </ul>
     </td>
     <td width="33%" valign="top">
