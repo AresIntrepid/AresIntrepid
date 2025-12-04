@@ -72,9 +72,11 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AresIntrepid&theme=dark&border=00FF41&fire=00FF41&currStreakNum=00FF41)
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=AresIntrepid&theme=react-dark&hide_border=true&area=true&color=00FF41)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AresIntrepid&layout=compact&theme=dark&hide=html,css&langs_count=6&title_color=00FF41&icon_color=00FF41)
-![Repo Stats](https://github-readme-stats.vercel.app/api?username=AresIntrepid&show_icons=true&theme=dark&icon_color=00FF41&title_color=00FF41&text_color=00FF41)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=dark&hide_title=true&bg_color=000000&color=00FF41)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AresIntrepid&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AresIntrepid&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AresIntrepid&layout=compact&theme=vision-friendly-dark)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AresIntrepid&theme=github-compact)
 
