@@ -72,4 +72,4 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-![Matrix Banner](https://api.screenshotone.com/take?url=https://matrix-stats-pxihulzvq-cyclopses-projects.vercel.app&viewport_width=1200&viewport_height=400)
+![Matrix Banner](https://matrix-stats-ogf0fcyuv-cyclopses-projects.vercel.app/api/banner)
