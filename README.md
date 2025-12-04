@@ -69,8 +69,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AresIntrepid&show_icons=true&theme=radical)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+I'm+Neil+👋;Software+Engineer+%7C+MERN+%7C+Java+%7C+Assembly;Building+Cool+Projects+Every+Day)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AresIntrepid&theme=dracula)
 
 
