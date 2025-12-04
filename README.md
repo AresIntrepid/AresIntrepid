@@ -3,10 +3,8 @@
 
 ![GitHub Snake](https://github.com/AresIntrepid/AresIntrepid/blob/output/github-contribution-grid-snake.gif)
 
-![Matrix Banner](https://i.imgur.com/Zr7pP6S.png)
 
-
-## :secret: You Found Me 	
+## :secret: 0_0	
 <!--
 **AresIntrepid/AresIntrepid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
