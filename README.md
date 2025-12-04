@@ -3,7 +3,6 @@
 
 ![GitHub Snake](https://github.com/AresIntrepid/AresIntrepid/blob/output/github-contribution-grid-snake.gif)
 
-
 ## :secret: 0_0	
 <!--
 **AresIntrepid/AresIntrepid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
