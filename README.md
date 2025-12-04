@@ -72,11 +72,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AresIntrepid&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AresIntrepid&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AresIntrepid&layout=compact&theme=vision-friendly-dark)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AresIntrepid&theme=github-compact)
+![3D Contribution](https://github-readme-3d-contrib-calendar.vercel.app/api?username=AresIntrepid)
+![Metrics](https://metrics.lecoq.io/AresIntrepid?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&config.timezone=America%2FNew_York)
 
