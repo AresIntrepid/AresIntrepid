@@ -72,6 +72,4 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-[![Matrix Banner](https://via.placeholder.com/1200x400/000000/00ff41?text=Click+to+View+Matrix+Banner)](https://matrix-stats-pxihulzvq-cyclopses-projects.vercel.app)
-
-<iframe src="https://matrix-stats-pxihulzvq-cyclopses-projects.vercel.app" width="100%" height="400px" frameborder="0"></iframe>
+![Matrix Banner](https://api.screenshotone.com/take?url=https://matrix-stats-pxihulzvq-cyclopses-projects.vercel.app&viewport_width=1200&viewport_height=400)
