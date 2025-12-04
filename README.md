@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## :izakaya_lantern: About Me 
 - :bridge_at_night:
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <table>
   <tr>
