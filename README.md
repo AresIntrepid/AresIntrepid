@@ -72,4 +72,4 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-![Matrix Banner](https://matrix-stats-pxihulzvq-cyclopses-projects.vercel.app)
+[![Matrix Banner](https://via.placeholder.com/1200x400/000000/00ff41?text=Click+to+View+Matrix+Banner)](https://matrix-stats-pxihulzvq-cyclopses-projects.vercel.app)
