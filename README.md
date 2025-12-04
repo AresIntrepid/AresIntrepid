@@ -1,7 +1,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+You+Found+Me;MWAHAHHAHA;Softare+Engineer+Building+Cool+Projects+Every+Day)
 
-![Matrix Banner](https://capsule-render.vercel.app/api?type=rect&height=200&text=Neil%20Kumar&fontSize=60&color=0:000000,100:00ff00&fontColor=ffffff&animation=fadeIn)
+![GitHub Snake](https://github.com/AresIntrepid/AresIntrepid/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
