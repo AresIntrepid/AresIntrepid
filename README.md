@@ -3,7 +3,7 @@
 
 ![GitHub Snake](https://github.com/AresIntrepid/AresIntrepid/blob/output/github-contribution-grid-snake.gif)
 
-
+![Matrix Banner](https://i.imgur.com/Zr7pP6S.png)
 
 
 ## :secret: You Found Me 	
