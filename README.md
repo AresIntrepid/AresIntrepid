@@ -73,3 +73,4 @@ Here are some ideas to get you started:
 </table>
 
 ![Matrix Banner](https://matrix-stats-jtwhu29j6-cyclopses-projects.vercel.app/api/banner)
+![Matrix Banner](https://matrix-stats-jtwhu29j6-cyclopses-projects.vercel.app/api/banner.svg)
