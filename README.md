@@ -73,3 +73,5 @@ Here are some ideas to get you started:
 </table>
 
 [![Matrix Banner](https://via.placeholder.com/1200x400/000000/00ff41?text=Click+to+View+Matrix+Banner)](https://matrix-stats-pxihulzvq-cyclopses-projects.vercel.app)
+
+<iframe src="https://matrix-stats-pxihulzvq-cyclopses-projects.vercel.app" width="100%" height="400px" frameborder="0"></iframe>
