@@ -72,4 +72,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-![Matrix Banner](https://matrix-stats-p8txbm9ee-cyclopses-projects.vercel.app/api/banner)
+<div align="center">
+  <img src="https://matrix-stats-p8txbm9ee-cyclopses-projects.vercel.app/api/banner" width="100%" alt="Matrix Banner"/>
+</div>
