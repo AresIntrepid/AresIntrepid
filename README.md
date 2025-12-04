@@ -72,4 +72,4 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-![Matrix Banner](https://your-new-vercel-url.vercel.app/api/banner)
+![Matrix Banner](https://matrix-stats-p8txbm9ee-cyclopses-projects.vercel.app/api/banner)
