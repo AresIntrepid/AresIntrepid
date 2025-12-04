@@ -72,4 +72,3 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-![3D Contribution](https://github-readme-3d-contrib-calendar.vercel.app/api?username=AresIntrepid)
