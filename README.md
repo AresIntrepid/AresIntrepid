@@ -72,4 +72,5 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AresIntrepid&theme=dark&border=00FF41&fire=00FF41&currStreakNum=00FF41)
 
