@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+You+Found+Me;MWAHAHHAHA+Softare+Engineer?+%7C+MERN+%7C+Java+%7C+Assembly;Building+Cool+Projects+Every+Day)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+You+Found+Me;MWAHAHHAHA;Softare+Engineer?Building+Cool+Projects+Every+Day)
 
 ## :secret: You Found Me 	
 <!--
