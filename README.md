@@ -73,4 +73,3 @@ Here are some ideas to get you started:
 </table>
 
 ![Matrix Banner](https://matrix-stats.vercel.app/api/banner)
-![Matrix Banner](https://matrix-stats-p8txbm9ee-cyclopses-projects.vercel.app/api/banner?v=1)
