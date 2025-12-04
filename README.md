@@ -1,9 +1,12 @@
+## :secret: 0_0	
+
+![Profile Views](https://komarev.com/ghpvc/?username=AresIntrepid&style=flat-square&color=green)
+[![GitHub followers](https://img.shields.io/github/followers/AresIntrepid?label=Follow&style=social)](https://github.com/AresIntrepid/?tab=follow)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/arnav-kumar-1b63382b3/)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+You+Found+Me;MWAHAHHAHA;Softare+Engineer+Building+Cool+Projects+Every+Day)
 
 ![GitHub Snake](https://github.com/AresIntrepid/AresIntrepid/blob/output/github-contribution-grid-snake.svg)
-
-## :secret: 0_0	
 <!--
 **AresIntrepid/AresIntrepid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,10 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Profile Views](https://komarev.com/ghpvc/?username=AresIntrepid&style=flat-square&color=green)
-[![GitHub followers](https://img.shields.io/github/followers/AresIntrepid?label=Follow&style=social)](https://github.com/AresIntrepid/?tab=follow)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/arnav-kumar-1b63382b3/)
-
 ## :izakaya_lantern: About Me 
 - :bridge_at_night:
 
