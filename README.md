@@ -1,9 +1,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+You+Found+Me;MWAHAHHAHA;Softare+Engineer+Building+Cool+Projects+Every+Day)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+I'm+Neil+👋;Software+Engineer+%7C+MERN+%7C+Java+%7C+Assembly;Building+Cool+Projects+Every+Day)
+![Matrix Banner](https://capsule-render.vercel.app/api?type=rect&height=200&text=Neil%20Kumar&fontSize=60&color=0:000000,100:00ff00&fontColor=ffffff&animation=fadeIn)
 
-![Nebula Banner](https://capsule-render.vercel.app/api?type=shark&height=250&color=gradient&text=Neil%20Kumar&fontSize=70&fontColor=ffffff&animation=twinkling)
 
 
 ## :secret: You Found Me 	
