@@ -24,12 +24,9 @@ Here are some ideas to get you started:
 ## :izakaya_lantern: About Me :bridge_at_night:
 ![Metrics](https://metrics.lecoq.io/AresIntrepid?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&config.timezone=America%2FNew_York&v=2)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AresIntrepid&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=AresIntrepid&show_icons=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AresIntrepid)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AresIntrepid)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AresIntrepid)
-![GitHub Streak](https://streak-stats.demolab.com/?user=AresIntrepid)
 
 ## Technical Skills
 
