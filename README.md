@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## :izakaya_lantern: About Me :bridge_at_night:
-![Metrics](https://metrics.lecoq.io/AresIntrepid?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&config.timezone=America%2FNew_York&v=1)
+![Metrics](https://metrics.lecoq.io/AresIntrepid?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&config.timezone=America%2FNew_York&v=2)
 
 ## Technical Skills
 
