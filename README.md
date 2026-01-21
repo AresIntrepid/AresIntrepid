@@ -71,5 +71,3 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-
-![Matrix Banner](https://matrix-stats.vercel.app/api/banner)
